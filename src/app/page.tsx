@@ -37,9 +37,9 @@ export default function GoogleGeminiEffectDemo() {
     </div>
 
     
-    {/* <div>
+   <div>
     <HeroParallax products={products} />
-    </div>  */}
+    </div> 
 
 
     
